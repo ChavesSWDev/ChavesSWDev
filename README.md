@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **contactrenchaves@gmail.com**
 
-- ⚡ Fun fact **I'm obsessed with knowledge**
+- ⚡ Fun fact about me: **I'm obsessed with knowledge**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
