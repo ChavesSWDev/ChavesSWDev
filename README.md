@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/ChavesSWDev)
 <h1 align="center">Hi 👋, I'm Renan Chaves</h1>
-<h3 align="center">A passionate fullstack developer from Brazil</h3>
+<h3 align="center">A passionate Web/Mobile Developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://rishavanand.github.io/static/images/greetings.gif">
 
 
