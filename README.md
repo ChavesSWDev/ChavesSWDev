@@ -26,8 +26,7 @@
 <br>
 <hr><br>
 
-<h2 align="center">I have experience with:</h2><br>
-
+<h2 align="center">I have experience with:</h2>
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
