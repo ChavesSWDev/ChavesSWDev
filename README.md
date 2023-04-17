@@ -26,7 +26,7 @@
 <br>
 <hr><br>
 
-<h1 align="center">I have experience with:</h1><br>
+<h2 align="center">I have experience with:</h2><br>
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
