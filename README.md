@@ -19,7 +19,7 @@
 - 💡 Also take a look in my **Repositories** for u see the projects I've been working with! It includes my personal, professional and college projects.
 <hr><br>
 <h3 align="left">Connect with me through LinkedIn:   
-  <a href="https://linkedin.com/in/chavesdev" target="blank">
+  <a href="https://linkedin.com/in/chavesdev" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chavesdev" height="30" width="40" />
   </a>
 </h3>
