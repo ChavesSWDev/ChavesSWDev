@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-label="Renan Chaves, Full-Stack Software Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b16"/><stop offset="1" stop-color="#111a2e"/></linearGradient>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60a5fa"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#60a5fa"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="g1" cx=".85" cy=".1" r=".6"><stop offset="0" stop-color="#7c3aed" stop-opacity=".35"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2" cx=".05" cy="1" r=".6"><stop offset="0" stop-color="#2563eb" stop-opacity=".3"/><stop offset="1" stop-color="#2563eb" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#ffffff" fill-opacity=".06"/></pattern>
+    <style>
+      .n{font:800 50px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;fill:#f8fafc;letter-spacing:-1.5px}
+      .r{font:700 22px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;fill:url(#acc)}
+      .k{font:500 14px 'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace;fill:#64748b}
+      .sv{font:800 20px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;fill:#f8fafc}
+      .sl{font:500 11px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;fill:#94a3b8;letter-spacing:1.2px}
+    </style>
+  </defs>
+  <rect width="900" height="230" rx="22" fill="url(#bg)"/>
+  <rect width="900" height="230" rx="22" fill="url(#dots)"/>
+  <rect width="900" height="230" rx="22" fill="url(#g1)"/>
+  <rect width="900" height="230" rx="22" fill="url(#g2)"/>
+  <rect x="1" y="1" width="898" height="228" rx="21" fill="none" stroke="url(#acc)" stroke-opacity=".55" stroke-width="1.5"/>
+  <text x="48" y="58" class="k">&lt;hello world /&gt; · I'm</text>
+  <text x="46" y="114" class="n">Renan Chaves</text>
+  <text x="48" y="148" class="r">Full-Stack Software Engineer</text>
+  <text x="48" y="186" class="k">React · TypeScript · Next.js · Node.js · Firebase</text>
+  <g transform="translate(640 46)">
+    
+    <g transform="translate(0 0)">
+      <rect width="212" height="40" rx="12" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".1"/>
+      <text x="16" y="27" class="sv">5+</text>
+      <text x="58" y="25" class="sl">YEARS BUILDING</text>
+    </g>
+    <g transform="translate(0 48)">
+      <rect width="212" height="40" rx="12" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".1"/>
+      <text x="16" y="27" class="sv">14+</text>
+      <text x="58" y="25" class="sl">PRODUCTS SHIPPED</text>
+    </g>
+    <g transform="translate(0 96)">
+      <rect width="212" height="40" rx="12" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".1"/>
+      <text x="16" y="27" class="sv">7</text>
+      <text x="44" y="25" class="sl">INDUSTRIES</text>
+    </g>
+  </g>
+</svg>

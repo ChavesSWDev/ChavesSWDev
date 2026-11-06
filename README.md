@@ -1,115 +1,56 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/ChavesSWDev)
-<h1 align="center">Hi 👋, I'm Renan Chaves</h1>
-<h3 align="center">A passionate Web/Mobile Developer from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://rishavanand.github.io/static/images/greetings.gif">
+<div align="center">
 
+<img src="./assets/header.svg" alt="Renan Chaves, Full-Stack Software Engineer" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chavesswdev&label=Profile%20views&color=0e75b6&style=flat" alt="chavesswdev" /> </p>
+<br/><br/>
 
-- 🌱 I’m currently learning **React and Node.js**.
+<a href="https://chavesdev.vercel.app/AllWorks"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/chavesdev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:contactrenchaves@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.instagram.com/chavesdevcompany/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
-- 📫 How to reach me **contactrenchaves@gmail.com**.
+</div>
 
-- ⚡ Fun fact about me: **I'm obsessed with knowledge**.
+## 🧭 About me
 
-- 📚 I **love** to work on new projects to develope more my knowledge.
+- 🛠️ Founder and engineer at **Chaves Dev Company**: 14+ websites and web apps delivered for clients in legal, healthcare, fitness, automotive, construction, education and e-commerce.
+- 🎲 Creator of **Velkarya**, a real-time online tabletop RPG platform, and **Alyra**, a SaaS that turns algorithms into videos.
+- 🧱 I care about clean architecture, reusable components, performance and interfaces people actually enjoy using.
+- 🎓 Technologist in Systems Analysis and Development (IFSP) · 🇧🇷 Portuguese (native) · 🇺🇸 English (C1)
+- 💼 Open to **full-stack, front-end and back-end** opportunities.
 
-- 💻 I enjoy to organize everything that I'm the owner, it includes my codes, descriptions and everything else!
+## ⭐ Featured work
 
-- 💡 Also take a look in my **Repositories** for u see the projects I've been working with! It includes my personal, professional and college projects.
-<hr><br>
-<h3 align="left">Connect with me through LinkedIn:   
-  <a href="https://linkedin.com/in/chavesdev" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chavesdev" height="30" width="40" target="_blank"/>
-  </a>
-</h3>
-<br>
-<hr><br>
+<div align="center">
 
-<h2 align="center">I have experience with:</h2>
-<h3 align="left">Programming Languages:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-</p>
+<img src="./assets/project-alyra.svg" alt="Alyra: SaaS that turns algorithms into animated videos" width="100%" />
 
-<hr>
+<br/><br/>
 
-<h3 align="left">Graphic Design Languages:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-</p>
+<a href="https://production-acupuntureflow.vercel.app/"><img src="./assets/project-acupuncture.svg" alt="Acupuncture Flow: website for an acupuncture and therapy clinic" width="100%" /></a>
 
-<hr>
+<br/><br/>
 
-<h3 align="left">HyperText Markup Language:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-</p>
-<hr>
+<a href="https://production-constructionflow.vercel.app/"><img src="./assets/project-construction.svg" alt="ConstructionFlow: corporate website for construction companies" width="100%" /></a>
 
-<h3 align="left">Tools:</h3>
-<p align="left"> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-</p>
+<br/><br/>
 
-<hr>
+<a href="https://velkarya.vercel.app"><img src="./assets/project-velkarya.svg" alt="Velkarya: real-time online dark fantasy RPG platform" width="100%" /></a>
 
-<h3 align="left">Libraries:</h3>
-<p align="left"> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  </a>  
-</p>
+<br/><br/>
 
-<hr>
+<sub>Click a card to open the live project · <a href="https://chavesdev.vercel.app/AllWorks"><b>See all 14+ projects in my portfolio →</b></a></sub>
 
-<h3 align="left">Database:</h3>
-<p align="left"> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>  
-</p>
+</div>
 
-<hr>
+## 🧰 Tech stack
 
-<h3 align="left">Frameworks:</h3>
-<p align="left"> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-  </a> 
-</p>
+<div align="center">
 
-<hr>
+<img src="./assets/tech-stack.svg" alt="Tech stack: React, Next.js, TypeScript, JavaScript, Tailwind, Redux, Three.js, Vite, HTML5, CSS3, Node.js, Firebase, MongoDB, MySQL, PHP, Git, GitHub, Vercel, AWS, Docker, Figma" width="100%" />
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chavesswdev&" alt="chavesswdev" />
-</p>
+<br/><br/>
+
+<sub>💬 Have a product idea or an open role? <a href="mailto:contactrenchaves@gmail.com">Let's talk.</a></sub>
+
+</div>
