@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="./assets/header.png" alt="Renan Chaves — Full-Stack Software Engineer. Solarpunk portfolio identity." width="100%" />
+<img src="./assets/header.png" alt="Renan Chaves — Full-Stack Software Engineer. Developer portfolio in a macOS-inspired workspace." width="100%" />
 
 <br/>
 
-<a href="https://chavesdev.vercel.app/AllWorks"><img src="https://img.shields.io/badge/Portfolio-274936?style=for-the-badge&amp;logo=vercel&amp;logoColor=F5EEDB" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/chavesdev"><img src="https://img.shields.io/badge/LinkedIn-496B4B?style=for-the-badge&amp;logo=linkedin&amp;logoColor=F5EEDB" alt="LinkedIn" /></a>
-<a href="mailto:contactrenchaves@gmail.com"><img src="https://img.shields.io/badge/Email-8B713C?style=for-the-badge&amp;logo=gmail&amp;logoColor=F5EEDB" alt="Email" /></a>
-<a href="https://www.instagram.com/chavesdevcompany/"><img src="https://img.shields.io/badge/Instagram-6B7951?style=for-the-badge&amp;logo=instagram&amp;logoColor=F5EEDB" alt="Instagram" /></a>
+<a href="https://chavesdev.vercel.app/AllWorks"><img src="https://img.shields.io/badge/Portfolio-262B35?style=for-the-badge&amp;logo=vercel&amp;logoColor=F5F5F7" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/chavesdev"><img src="https://img.shields.io/badge/LinkedIn-344158?style=for-the-badge&amp;logo=linkedin&amp;logoColor=F5F5F7" alt="LinkedIn" /></a>
+<a href="mailto:contactrenchaves@gmail.com"><img src="https://img.shields.io/badge/Email-424A59?style=for-the-badge&amp;logo=gmail&amp;logoColor=F5F5F7" alt="Email" /></a>
+<a href="https://www.instagram.com/chavesdevcompany/"><img src="https://img.shields.io/badge/Instagram-555D70?style=for-the-badge&amp;logo=instagram&amp;logoColor=F5F5F7" alt="Instagram" /></a>
 
 </div>
 
@@ -29,7 +29,7 @@ I'm **Renan Chaves**, a full-stack software engineer and founder of **Chaves Dev
 
 <br/><br/>
 
-<a href="https://production-acupuntureflow.vercel.app/"><img src="./assets/project-acupuncture.png" alt="Acupuncture Flow — responsive clinic website, presented in a solarpunk frame." width="100%" /></a>
+<a href="https://production-acupuntureflow.vercel.app/"><img src="./assets/project-acupuncture.png" alt="Acupuncture Flow — responsive clinic website, displayed in a laptop mockup." width="100%" /></a>
 
 <br/><br/>
 
