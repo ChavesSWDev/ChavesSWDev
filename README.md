@@ -25,19 +25,23 @@ I'm **Renan Chaves**, a full-stack software engineer and founder of **Chaves Dev
 
 <div align="center">
 
-<a href="https://alyra-io.vercel.app/"/><img src="./assets/project-alyra.png" alt="Alyra — algorithm visualization and video creation. In development; actual Steampunk Studio interface." width="100%" /></a>
+<a href="https://alyra-io.vercel.app/"><img src="./assets/project-alyra.png" alt="Alyra — algorithm visualization and video creation. In development; actual Steampunk Studio interface." width="100%" /></a>
 
 <br/><br/>
 
-<a href="https://production-acupuntureflow.vercel.app/"><img src="./assets/project-acupuncture.png" alt="Acupuncture Flow — responsive clinic website, displayed in a laptop mockup." width="100%" /></a>
+<a href="https://production-ecommerce-ecoflow.vercel.app/"><img src="./assets/project-ecoflow.png" alt="EcoFlow Store — clothing e-commerce website, displayed in a laptop mockup." width="100%" /></a>
 
 <br/><br/>
 
-<a href="https://production-constructionflow.vercel.app/"><img src="./assets/project-construction.png" alt="ConstructionFlow — construction and architecture website." width="100%" /></a>
+<a href="https://production-barbershop.vercel.app/"><img src="./assets/project-barbershop.png" alt="Barber Flow — barbershop website with online booking, client accounts and admin back office." width="100%" /></a>
 
 <br/><br/>
 
-<a href="https://velkarya.vercel.app"><img src="./assets/project-velkarya.png" alt="Velkarya — real-time online tabletop RPG platform." width="100%" /></a>
+<a href="https://production-lawflow.vercel.app/"><img src="./assets/project-lawflow.png" alt="LawFlow — editorial law firm website with practice area pages and attorney profiles." width="100%" /></a>
+
+<br/><br/>
+
+<a href="https://chavesdev.vercel.app/"><img src="./assets/project-portfolio.png" alt="Chaves SW Dev — Renan Chaves's developer portfolio." width="100%" /></a>
 
 <br/><br/>
 
