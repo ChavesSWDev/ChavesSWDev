@@ -25,7 +25,7 @@ I'm **Renan Chaves**, a full-stack software engineer and founder of **Chaves Dev
 
 <div align="center">
 
-<img src="./assets/project-alyra.png" alt="Alyra — algorithm visualization and video creation. In development; actual Steampunk Studio interface." width="100%" />
+<a href="https://alyra-io.vercel.app/"/><img src="./assets/project-alyra.png" alt="Alyra — algorithm visualization and video creation. In development; actual Steampunk Studio interface." width="100%" /></a>
 
 <br/><br/>
 
