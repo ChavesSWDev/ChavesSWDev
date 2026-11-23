@@ -15,7 +15,7 @@
 
 I'm **Renan Chaves**, a full-stack software engineer and founder of **Chaves Dev Company**.
 
-- My portfolio spans **14 websites and web applications** across legal, healthcare, fitness, automotive, construction, education and e-commerce themes.
+- My portfolio spans more than **15 websites and web applications** across legal, healthcare, fitness, automotive, construction, education and e-commerce themes.
 - I'm building **Alyra**, a SaaS that turns algorithms into visual explanations and videos, and **Velkarya**, a real-time online tabletop RPG platform.
 - I care about clean architecture, reusable components, performance and interfaces people enjoy using.
 - Technologist in Systems Analysis and Development (**IFSP**) · Portuguese (native) · English (C1).
